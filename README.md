@@ -10,7 +10,7 @@ Listed the diiferneces between the Identity with and without Domains in below fi
 
 ![image](https://github.com/user-attachments/assets/e7c3dc20-8be4-46d9-881e-3bf6e39d5deb)
 
-For more information on OCI IAM kindly refer the documentation provied by the [Oracle Docs] (https://docs.oracle.com/en-us/iaas/Content/Identity/home.htm)
+For more information on OCI IAM kindly refer the documentation provied by the Oracle Docs (https://docs.oracle.com/en-us/iaas/Content/Identity/home.htm)
 
 
 
