@@ -1,0 +1,12 @@
+schema_version: 20240929 #date
+name: icmp-alerts-python
+version: 0.0.1
+runtime: python
+build_image: fnproject/python:3.11-dev
+run_image: fnproject/python:3.11
+entrypoint: /python/bin/fdk /function/func.py handler
+memory: 256
+triggers:
+- name: icmp-alerts-python
+  type: http
+  source: / icmp-alerts-python
