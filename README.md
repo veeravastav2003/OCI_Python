@@ -4,7 +4,7 @@
 - [OCI IAM](iam/)
 - [OCI Compute Instances](compute_instance/)
 - [OCI Orphan Resources](Orphan_Resources/)
-- [OCI ICMP Alerts](ICMP Aletrs python/)
+- [OCI ICMP Alerts](OCI_ICMP_Alerts_Python/)
 
 
 If any suggestions please feel free to contact me on [LinkedIn](www.linkedin.com/in/veeravastav-gudipudi-47b7b0201)
